@@ -1,0 +1,38 @@
+[
+    {
+        "company": "Consensys Software Inc",
+        "position": "Senior Software Engineer",
+        "startDate": "Oct 2020",
+        "endDate": "Oct 2024",
+        "note": "Started as Software Engineer at Consensys in October 2020 and got promoted to Senior Software Enginineer by July 2022.",
+        "description": "Led the development of new features for the MetaMask wallet browser extension, a self-custodial Ethereum wallet, using JavaScript/TypeScript, Node.js, React, and Redux. Built reusable components, blockchain interactions, and API integrations while improving code quality through TypeScript migrations and React refactoring. Owned projects from requirement gathering to deployment, collaborating with product managers, designers, QA, and engineers to ensure timely, high-quality releases. Conducted code reviews, pair programming, and mentoring, fostering a product-focused and best-practice-driven engineering culture."
+    },
+    {
+        "company": "Freelance",
+        "position": "Freelance",
+        "startDate": "Feb 2018",
+        "endDate": "Nov 2019",
+        "description": "Developed custom data-driven applications using JavaScript, Java, Python, SQL, and NoSQL, optimizing data processing and visualization. Adapted to client needs by expanding expertise in Lisp and Blockchain, showcasing flexibility and a commitment to delivering tailored solutions."
+    },
+    {
+        "company": "Exterro R & D",
+        "position": "Software Engineer",
+        "startDate": "Feb 2017",
+        "endDate": "Oct 2017",
+        "description": "Developed backend features for web-based e-discovery software in Java and MSSQL, increasing system reliability in an agile environment."
+    },
+    {
+        "company": "Center for Advanced Computing",
+        "position": "Post Graduate Intern",
+        "startDate": "Jul 2015",
+        "endDate": "Jul 2016",
+        "description": "Led full-stack development of a vehicle-tracking web application using HTML, CSS, JavaScript, Node.js, RESTful APIs, and PostgreSQL. Mentored a junior engineer, enhancing team collaboration and onboarding. Engaged with core business users, presenting the working model, gathering feedback, and refining the application to meet user needs"
+    },
+    {
+        "company": "Infosys Ltd",
+        "position": "Systems engineer",
+        "startDate": "Aug 2011",
+        "endDate": "Jun 2013",
+        "description": "Spearheaded API development and backend logic for e-commerce platforms using Java, Spring, and MySQL, ensuring seamless integration and optimized transaction workflows. Mentored a new engineer, enabling efficient project onboarding and autonomy."
+    }
+]

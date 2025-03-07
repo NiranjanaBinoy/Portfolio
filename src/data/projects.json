@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Todo App",
+        "description": "A simple and efficient TODO application. The app allows users to add new task and mark them as completed. The app also displays tasks based on their status.",
+        "image": "src/assets/ToDo-app.png",
+        "technologies": ["React", "JavaScript", "CSS3", "React Context", "useReducer"],
+        "url": "https://niranjanabinoy.github.io/todo-app/"
+    }
+]
