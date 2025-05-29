@@ -18,7 +18,7 @@ const Projects = () => {
             { PROJECT.map((project) => (
               <Grid item size={{xs: 12, sm: 6, md: 4}}>
                 <motion.div whileHover={{ scale: 1.05, rotate: 2 }}>
-                    <Card style={{ backgroundColor: darkMode ? "#424242" : "#f5f5f5" }}>
+                    <Card style={{ backgroundColor: darkMode ? "#424242" : "#f5f5f5", minHeight: "300px" }}>
                       <CardHeader title={project.name} />
                       <CardContent>
                         <Typography variant="body2">{project.description}</Typography>
