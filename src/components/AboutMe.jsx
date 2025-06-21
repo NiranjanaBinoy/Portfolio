@@ -14,7 +14,7 @@ const AboutMe = () => {
                   <Contact />
                 </Box>
                 <Typography variant="body1">
-                  I'm a product-minded Software Engineer specializing in React, Node.js, TypeScript, and JavaScript, with experience in blockchain interactions. I build high-performance web applications and thrive in collaborative environments, turning ideas into impactful products.                
+                  I'm a product-minded Software Engineer specializing in TypeScript, JavaScript, Python, React and Node.js, with experience in blockchain interactions. I build high-performance web applications and thrive in collaborative environments, turning ideas into impactful products.                
                 </Typography>
             </motion.div>
         </>

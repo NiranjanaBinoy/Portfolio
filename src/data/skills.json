@@ -1,14 +1,18 @@
 [
     "JavaScript",
     "TypeScript",
+    "Python",
     "React", 
-    "Redux", 
-    "Material UI", 
+    "Redux",  
     "HTML/CSS", 
+    "Material UI",
     "Node.js", 
     "Express", 
+    "Git",
+    "GitHub",
     "REST API", 
+    "PostgreSQL",
     "Ethereum", 
     "MetaMask", 
-    "ethers.js"
+    "Ethers.js"
 ]
